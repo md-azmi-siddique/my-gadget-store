@@ -106,3 +106,27 @@
     font-weight: bold;
     margin-bottom: 10px;
 }
+
+.catagories{
+    margin-top: 70px;
+    margin-right: 40px;
+}
+
+.heading{
+    text-align: center;
+}
+
+.heading-underline{
+    height: 10px;
+    width: 150px;
+    background-color: yellow; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to right, yellow , orange);
+    border-radius: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.catagories-bag{
+    margin-top: 50px;
+    margin-right: 100px;
+}
