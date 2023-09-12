@@ -1,3 +1,17 @@
+.container{  
+    margin-bottom: 0px;
+} 
+
+.box img{
+    height: 80px;
+    width: auto;
+}
+
 .navbar-collapse{
-    margin-left: 500px;
+    margin-left: 590px;
+}
+
+.container-carousel {
+    margin-top: -40px; /* Reduce the margin value to your desired spacing */
+    padding-top: 0px;
 }
