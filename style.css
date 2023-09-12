@@ -7,11 +7,69 @@
     width: auto;
 }
 
+.logo{
+    margin-left: 40px;
+}
+
 .navbar-collapse{
-    margin-left: 590px;
+    margin-left: 550px;
 }
 
 .container-carousel {
     margin-top: -40px; /* Reduce the margin value to your desired spacing */
     padding-top: 0px;
+}
+
+
+.buyNow{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.product-description{
+    padding-left: 60px;
+}
+
+.smartphone-title{
+    margin-left: 40px;
+    color: black;
+}
+
+.see-all{
+    padding-top: 25px;
+    color: orange;
+}
+
+.card{
+    border: none;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card-text{
+    text-align: center;
+}
+
+.smartphone-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-top: 0px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.card-footer{
+    text-align: center;
+    border: none;
+    background-color: white;
+    margin-top: 1px;
 }
