@@ -40,10 +40,11 @@
     color: black;
 }
 
-.see-all{
+.see-all a{
     padding-top: 25px;
     color: orange;
     font-weight: bold;
+    text-decoration: none;
 }
 
 .card{
@@ -131,7 +132,7 @@
     margin-right: 100px;
 }
 
-a{
+/* a{
     text-decoration: none;
     color: orange;
-}
+} */
